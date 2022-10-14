@@ -1,0 +1,61 @@
+.box3{
+  background:lightgreen;
+  display: inline-block;
+
+}
+
+
+h1 {
+  width:80%;
+  margin: 0 auto;
+  padding-top:90px;
+
+
+}
+
+body{
+  background:skyblue;
+  text-align:center;
+  font-family: cursive;
+
+}
+
+.t-c{
+  position: absolute;
+  padding-top:30px;
+  right:330px;
+  width:200px;
+
+}
+.b-c {
+  position: absolute;
+  width: 200px;
+}
+i2{
+  background:skyblue;
+}
+.boy {
+  width:10%;
+  margin:auto;
+  padding-right:10px;
+
+}.skill1{
+  width:100px;
+  position:absolute;
+  top:1200px;
+  left:350px;
+
+}
+.skill2{width:200px;
+ padding-left:40px;}
+ .skill3{width:400px;}
+ .tree{width:200px;
+       position:absolute;
+       top:501px;
+       right:270px;}
+  .tree2{width:300px;
+         position:absolute;
+         top:408px;
+         left:150px;}
+  .l{font-family:cursive;}
+  .m{padding-bottom:50px;}
