@@ -16,7 +16,7 @@ h1 {
 body{
   background:skyblue;
   text-align:center;
-  font-family: cursive;
+  
 
 }
 
@@ -55,7 +55,7 @@ i2{
        right:270px;}
   .tree2{width:300px;
          position:absolute;
-         top:408px;
+         top:415px;
          left:150px;}
   .l{font-family:cursive;}
   .m{padding-bottom:50px;}
